@@ -1,3 +1,4 @@
 manoj is software engineer
 manoj is a software developer
 he staying in bangalore
+he completed in aws class
